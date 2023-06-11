@@ -29,6 +29,7 @@ password: the password associated with the username.
 database: the name of the database that you want to connect to.
 For example:
 
+
 mydb = mysql.connector.connect(
   host="localhost",
   user="<your_username>",
